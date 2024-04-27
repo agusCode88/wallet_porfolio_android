@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alkewallet_title">AlkeWallet</string>
+    <string name="login_title">El lugar mas seguro para tu dinero</string>
+    <string name="txt_btn_login">Crear cuenta nueva</string>
+    <string name="account_qst">Ya tienes Cuenta?</string>
+    <string name="login_txt_view">Logea y empieza a transferir!</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_contrasenia">Contraseña</string>
+    <string name="edt_email">Ingresar tu email</string>
+    <string name="edt_contrasenia">Ingresar tu contraseña</string>
+    <string name="txt_forget_pass">Olvidaste tu contraseña?</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_inicio_home">Inicio</string>
+    <string name="hi_amanda_example">Hola,Amanda!</string>
+    <string name="ult_transaction">Últimas transacciones</string>
+    <string name="send_money_txt">Enviar Dinero</string>
+</resources>
